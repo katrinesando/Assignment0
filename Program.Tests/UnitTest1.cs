@@ -14,7 +14,7 @@ public class UnitTest1
         var result = sut.isLeapYear(42);
 
         //Assert
-        // result.Should.Be();
+        result.Should().Be(true);
 
     }
 }
