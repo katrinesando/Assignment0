@@ -8,13 +8,13 @@ public class UnitTest1
     public void Test1()
     {
         //Arrange
-        var sut = new Program();
+        var sut = new Leap.LeapYear();
         
         //Act
         var result = sut.isLeapYear(42);
-
+        
         //Assert
-        result.Should().Be(true);
-
+        result.Should().Be(false);
+        sut.isLeapYear(24).Should().Be(true);
     }
 }
