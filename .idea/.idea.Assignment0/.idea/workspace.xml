@@ -5,10 +5,8 @@
     <projectFile>Program/Program.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="102a9b51-6e45-42f8-8d63-877fa19ab699" name="Changes" comment="Implemented error handling and moved to one class">
+    <list default="true" id="102a9b51-6e45-42f8-8d63-877fa19ab699" name="Changes" comment="new unit test implemented">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment0/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.Tests/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.Tests/UnitTest1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +19,9 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/sando/Documents/GitHub/test/Assignment0/Program/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -116,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662467713237</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new unit test implemented">
+      <created>1662473218424</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662473218424</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +149,7 @@
     <MESSAGE value="other branch - &quot;Other Branch&quot; in console" />
     <MESSAGE value="Tested and implemented isLeapYear in LeapYear class" />
     <MESSAGE value="Implemented error handling and moved to one class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented error handling and moved to one class" />
+    <MESSAGE value="new unit test implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="new unit test implemented" />
   </component>
 </project>
