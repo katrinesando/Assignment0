@@ -5,10 +5,9 @@
     <projectFile>Program/Program.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="102a9b51-6e45-42f8-8d63-877fa19ab699" name="Changes" comment="Tested and implemented isLeapYear in LeapYear class">
+    <list default="true" id="102a9b51-6e45-42f8-8d63-877fa19ab699" name="Changes" comment="Implemented error handling and moved to one class">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment0/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.Tests/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.Tests/UnitTest1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program/LeapYear.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Program/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662308662991</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Implemented error handling and moved to one class">
+      <created>1662467713237</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662467713237</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +140,7 @@
     <MESSAGE value="solution file created" />
     <MESSAGE value="other branch - &quot;Other Branch&quot; in console" />
     <MESSAGE value="Tested and implemented isLeapYear in LeapYear class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tested and implemented isLeapYear in LeapYear class" />
+    <MESSAGE value="Implemented error handling and moved to one class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented error handling and moved to one class" />
   </component>
 </project>

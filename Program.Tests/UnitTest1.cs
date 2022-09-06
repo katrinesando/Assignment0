@@ -28,10 +28,8 @@ public class UnitTest1
     [Fact]
     public void Throw_exception_invalid_input()
     {
-        // var sr = new StringReader("Invalid int");
-        // Console.SetIn(sr);
-        //
-        // int? parsed = Program();
-        // Assert.IsNull(parsed);
+        var result = () => { new Program().InputToInteger("abc");
+        };
+        result.Should().Throw<ArgumentException>();
     }
 }

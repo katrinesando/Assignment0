@@ -16,19 +16,21 @@ namespace Program
 
             try
             {
-                if (int.TryParse(input, out var year))
-                {
-                    leapYear.IsLeapYear(year);
-                }
-                else
-                {
-                    throw new ArgumentException("Only integers allowed ");
-                }
+                leapYear.IsLeapYear(leapYear.InputToInteger(input));
             }catch (Exception e)
             {
                 Console.WriteLine(e);
             }
            
+        }
+
+        public int InputToInteger(string? input)
+        {
+            if (int.TryParse(input, out var year))
+            {
+                return year;
+            }
+            throw new ArgumentException("Only integers allowed ");
         }
         public bool IsLeapYear(int year)
         {
