@@ -5,9 +5,7 @@
     <projectFile>Program/Program.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="102a9b51-6e45-42f8-8d63-877fa19ab699" name="Changes" comment="new unit test implemented">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment0/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="102a9b51-6e45-42f8-8d63-877fa19ab699" name="Changes" comment="new unit test implemented" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
